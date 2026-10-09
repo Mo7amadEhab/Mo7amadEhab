@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐I'm currently working on Desktop & Mobile Applications<br>💥I'm looking to collaborate on Backend engineering projects using .NET Core and SQL, as well as upcoming mobile application projects using Flutter.<br>🎙️ I'm looking for help with best practices in software architecture.<br>💬Ask me about C++ programming, C# , system configuration, and software learning paths.<br>⚡️ Fun fact: I love combining creative digital design (like 3D metallic calligraphy and custom logos) with clean, structured code!
+🌐I'm currently working on Desktop, WEP & Mobile Applications<br>💥I'm looking to collaborate on Backend engineering projects using .NET Core and SQL, as well as upcoming mobile application projects using Flutter.<br>🎙️ I'm looking for help with best practices in software architecture.<br>💬Ask me about C++ programming, C# , system configuration, and software learning paths.<br>⚡️ Fun fact: I love combining creative digital design (like 3D metallic calligraphy and custom logos) with clean, structured code!
 
 
 ## 🌐 Socials:
